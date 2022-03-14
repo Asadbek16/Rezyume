@@ -1,0 +1,8 @@
+body {
+background-color: rgb(208, 209, 212);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 19px;
+
+.card {
+    width: 700px;
+}
